@@ -1,0 +1,8 @@
+prefix=/home/pursuit/Flexible_Arm/install
+
+Name: motor_driver
+Description: Description of motor_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pursuit/Flexible_Arm/install/lib 
+Requires: 

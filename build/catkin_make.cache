@@ -1,0 +1,2 @@
+motor_driver
+-DCATKIN_DEVEL_PREFIX=/home/pursuit/Flexible_Arm/devel -DCMAKE_INSTALL_PREFIX=/home/pursuit/Flexible_Arm/install -G Unix Makefiles
